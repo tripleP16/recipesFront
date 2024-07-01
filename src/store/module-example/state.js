@@ -1,5 +1,5 @@
-export default function () {
-  return {
-    //
-  }
-}
+export default {
+  recipes: [],
+  isLoading: false,
+  error: null,
+};
